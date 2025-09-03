@@ -72,7 +72,8 @@ github: <<과제 제출 방법>>에서 만든 나의 비공개 레포지토리 �
 
 ### 테스트 실행 가이드
 
-<img width="406" height="57" alt="image" src="https://github.com/user-attachments/assets/10a7bb5f-065b-460a-b915-8471ed2f1dca" />
+<img width="812" height="114" alt="image" src="https://github.com/user-attachments/assets/3f3ab193-929c-4afe-8659-7aaff7708d13" />
+
 
 - 터미널에서 `java -version`을 실행하여 Java 버전이 21인지 확인해주세요.
 - 터미널에서 Mac 또는 Linux 사용자의 경우 `./gradlew clean test` 명령을 실행하고, Windows 사용자의 경우 `gradlew.bat clean test` 명령을 실행할 때 모든 테스트가 통과하는지 확인해주세요.
