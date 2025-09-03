@@ -12,8 +12,10 @@
 [https://github.com/yourssu-backend/2025-2-recruiting](https://github.com/yourssu-backend/2025-2-recruiting)
 
 ### 2. 본인의 비공개 저장소 생성하기
-<img width="1335" height="443" alt="과제안내1" src="https://github.com/user-attachments/assets/88cc274d-933c-48ff-b411-66aaa5de00e5" />
-<img width="1118" height="1129" alt="과제안내2" src="https://github.com/user-attachments/assets/a2052b88-5137-48fb-8f72-9e1247e11744" />
+
+<img width="2670" height="886" alt="image" src="https://github.com/user-attachments/assets/4370f81b-71b6-4bb0-bf75-45214a3a86c0" />
+<img width="2236" height="2258" alt="image" src="https://github.com/user-attachments/assets/8e6103ef-5231-470f-935e-4e18a9069cc2" />
+
 
 - 과제 저장소에서 `Use this template` -> `Create a new repository`를 클릭하여 본인 계정 하위에 새 저장소를 만들 수 있습니다.
 - Owner를 **지원서에 제출한 본인의 GitHub 계정**으로 선택하고 **비공개(Private)** 로 새 저장소를 만듭니다.
@@ -27,8 +29,9 @@
 - 초대를 완료하면 `Pending Invite` 상태인 것을 확인할 수 있습니다.
 - **안내된 시간까지** `yourssu-backend` **계정을 collaborator로 초대하지 않은 경우 0점 처리**됩니다.
 - **Collaborator 설정을 잊어버리는 것을 방지하기 위해 저장소를 생성할 때 바로 설정하는 것을 추천합니다.**
-<img width="1335" height="671" alt="과제안내4" src="https://github.com/user-attachments/assets/58da1e50-d325-4be4-99e2-e6484ce29692" />
-<img width="1337" height="1009" alt="과제안내3" src="https://github.com/user-attachments/assets/9a7a45a6-35be-4c8b-8ed1-5706b516bdac" />
+
+<img width="2674" height="2018" alt="image" src="https://github.com/user-attachments/assets/ed3caaf3-010f-48d7-9615-dbb8d6e4e9ff" />
+<img width="2670" height="1342" alt="image" src="https://github.com/user-attachments/assets/ae7e32c6-a082-46fd-b45b-b4aefbfe393f" />
 
 ### 4. 과제 진행하기
 
